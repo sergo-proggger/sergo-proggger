@@ -8,9 +8,9 @@
 
 | Проект | Что я сделал | Посмотреть |
 | --- | --- | --- |
-| **Nana Bel** | Англоязычное портфолио модели. Галереи, видео и параметры редактируются через WordPress. | [Сайт](https://nanweis.ru/) · [Код галереи](https://github.com/sergo-proggger/portfolio/blob/main/examples/nana-bel.js) |
-| **Language Voyage** | Сайт преподавателя. Вынес в админку тексты, фотографии и цены, подготовил инструкцию по редактированию. | [Сайт](https://languagevoyage.ru/) · [JavaScript темы](https://github.com/sergo-proggger/portfolio/blob/main/examples/language-voyage.js) |
-| **Центр наблюдения** | Сайт мастера по видеонаблюдению. На телефоне можно выбрать тип объекта и сразу связаться с мастером. | [Сайт](https://centr-nablyudeniya.ru/) · [Код интерфейса](https://github.com/sergo-proggger/portfolio/blob/main/examples/centr-nablyudeniya.js) |
+| <a href="https://nanweis.ru/"><img src="https://raw.githubusercontent.com/sergo-proggger/sergo-proggger/main/nanabel.webp" width="180" alt="Главная страница Nana Bel"></a><br>**Nana Bel** | Англоязычное портфолио модели. Галереи, видео и параметры редактируются через WordPress. | [Сайт](https://nanweis.ru/) · [Код галереи](https://github.com/sergo-proggger/portfolio/blob/main/examples/nana-bel.js) |
+| <a href="https://languagevoyage.ru/"><img src="https://raw.githubusercontent.com/sergo-proggger/sergo-proggger/main/languagevoyage.webp" width="180" alt="Главная страница Language Voyage"></a><br>**Language Voyage** | Сайт преподавателя. Вынес в админку тексты, фотографии и цены, подготовил инструкцию по редактированию. | [Сайт](https://languagevoyage.ru/) · [JavaScript темы](https://github.com/sergo-proggger/portfolio/blob/main/examples/language-voyage.js) |
+| <a href="https://centr-nablyudeniya.ru/"><img src="https://raw.githubusercontent.com/sergo-proggger/sergo-proggger/main/centr.webp" width="180" alt="Главная страница Центр наблюдения"></a><br>**Центр наблюдения** | Сайт мастера по видеонаблюдению. На телефоне можно выбрать тип объекта и сразу связаться с мастером. | [Сайт](https://centr-nablyudeniya.ru/) · [Код интерфейса](https://github.com/sergo-proggger/portfolio/blob/main/examples/centr-nablyudeniya.js) |
 
 ## Приложения и вёрстка
 
